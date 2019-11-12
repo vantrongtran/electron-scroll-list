@@ -1,0 +1,21 @@
+.container {
+  height: 100vh;
+  margin: auto;
+  text-align: center;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container h2 {
+  font-size: 5rem;
+}
+
+.container a {
+  font-size: 1.4rem;
+}
+
+.btn-upload {
+  margin-top: 50px;
+}
